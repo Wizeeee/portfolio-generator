@@ -1,0 +1,22 @@
+{
+  "name": "portfolio-generator",
+  "version": "1.0.0",
+  "description": "Using  Node.js to build a program that creates an HTML portfolio page, without touching an HTML file! Instead, will use the command line to capture user input and place it in a JavaScript function that provides the finished HTML page as output.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wizeeee/portfolio-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wizeeee/portfolio-generator/issues"
+  },
+  "homepage": "https://github.com/Wizeeee/portfolio-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
